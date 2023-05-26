@@ -42,5 +42,3 @@ final as (
 )
 
 select * from final
-
--- cicd test
